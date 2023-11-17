@@ -19,6 +19,6 @@ entries:
     - https://github.com/bitnami/bitnami-docker-elasticsearch-curator
     type: application
     urls:
-    - elasticsearch-curator-3.2.4.tgz
+    - https://github.com/konvergence/lebenitza-charts/releases/tag/elasticsearch-curator-3.2.4/elasticsearch-curator-3.2.4.tgz
     version: 3.2.4
 generated: "2023-11-17T15:42:54.9846047+01:00"
